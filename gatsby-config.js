@@ -29,19 +29,14 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-prefetch-google-fonts`,
+      resolve: `gatsby-plugin-google-fonts`,
       options: {
         fonts: [
-          {
-            family: `Roboto`,
-            variants: [`300`, `400`, `700`]
-          },
-          {
-            family: `Roboto Condensed`,
-            variants: [`400`]
-          },
+          `limelight`,
+          `source Roboto pro\:300,400,400i,700` // you can also specify font weights and styles
         ],
-      },
+        display: 'swap'
+      }
     }
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
