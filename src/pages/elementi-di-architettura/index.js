@@ -41,8 +41,7 @@ class IndexElementi extends Component {
         </Helmet>
         <div className="uk-container-large" style={{marginLeft: 'auto',marginRight: 'auto'}}><div className="uk-padding-large uk-width-1-2@l uk-flex uk-flex-middle uk-first-column"><div>
         <h1>Realizzazione e ristrutturazione di edifici: i nostri prodotti  </h1>
-        <p>Ben radicati sul nostro territorio di riferimento, per privati e aziende ci occupiamo della sostituzione di infissi ed elementi di architettura, fornendo diversi prodotti e servizi. Utilizziamo materiali di alta </p>
-        <p>qualità e innovativi, così come tecniche di lavorazione all’avanguardia. Il nostro team è qualificato, esperto e sottoposto a costante aggiornamento professionale. </p>
+        <p>Ben radicati sul nostro territorio di riferimento, per privati e aziende ci occupiamo della sostituzione di infissi ed elementi di architettura, fornendo diversi prodotti e servizi. Utilizziamo materiali di alta qualità e innovativi, così come tecniche di lavorazione all’avanguardia. Il nostro team è qualificato, esperto e sottoposto a costante aggiornamento professionale. </p>
         <h2>Elementi di architettura per esterni e interni </h2>
         <p>Da venticinque anni siamo specializzati nella realizzazione e ristrutturazione di edifici e nella vendita di serramenti in legno, legno-alluminio, PVC e ferro, porte interne in legno, vetro, scale e soluzioni rasopareti, sistemi oscuranti per la gestione della luce sia in interni che in esterni, ingressi, inferriate e tapparelle di sicurezza. </p>
         <p>Mettiamo a punto e realizziamo anche soluzioni per l’industria (porte tecniche, porte per ambienti speciali, compartimentazione tagliafuoco), soluzioni outdoor (coperture, tende, pergole e verande), realizzazione di facciate con materiali tradizionali, innovativi e tecnologici. </p>
