@@ -44,7 +44,7 @@ class IndexIndustria extends Component {
         <h1>Soluzioni per l’industria: sicurezza per le aziende </h1>
         <p>Serramenti, infissi, porte, portoni, inferriate e altri elementi di architettura per interni ed esterni di uno spazio riguardano non solo privati, ma anche aziende e stabilimenti. Offriamo la nostra esperienza ventennale al servizio delle aziende, a cui proponiamo soluzioni tecnico-commerciali dall’elevata qualita’ costruttiva e tecnologicamente innovative, oltre ad avere tutte le certificazioni necessarie. </p>
         <h2>Soluzioni per industria, porte tecniche, compartimentazione tagliafuoco</h2>
-        <p>Da venticinque anni continuiamo a occuparci anche di fornitura e posa per l’industria. Abbiamo ascoltato le esigenze delle varie realtà del nostro territorio, andando incontro alle loro richieste di sicurezza, qualità e funzionalità. La nostra ricerca di prodotti per “industria”, selezionata dal nostro team con esperienza ultra ventennale, presenta soluzioni tecnico-commerciali in grado di coniugare qualità costruttiva e tecnologie innovative; rispettando tutte le certificazioni di legge.</p>
+        <p>La nostra ricerca di prodotti per “industria”, selezionata dal nostro team con esperienza ultra ventennale, presenta soluzioni tecnico-commerciali in grado di coniugare qualità costruttiva e tecnologie innovative; rispettando tutte le certificazioni di legge.</p>
         <h3>Ci occupiamo di:</h3>
         <p>•	Portoni industriali: scorrevoli, a libro, a battente manuali e motorizzati</p>
         <p>•	Compartimentazione tagliafuoco: porte a battente, portoni scorrevoli</p>
