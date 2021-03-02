@@ -44,7 +44,6 @@ class IndexInfissiEsterni extends Component {
         <div className="uk-container-large" style={{marginLeft: 'auto',marginRight: 'auto'}}><div className="uk-padding-large uk-width-1-2@l uk-flex uk-flex-middle uk-first-column"><div>
         <h1>Montaggio infissi esterni: ampia scelta  </h1>
         <p>Calore, luce, comfort, silenzio, efficienza e risparmio energetico. Sono criteri importanti da valutare nella scelta dei serramenti e in fase di <b>montaggio di infissi esterni</b>. È per questo che c’è bisogno di professionisti specializzati e referenziati, come il nostro personale altamente qualificato e formato. </p>
-        <p>qualità e innovativi, così come tecniche di lavorazione all’avanguardia. Il nostro team è qualificato, esperto e sottoposto a costante aggiornamento professionale. </p>
         <h2>Serramenti in legno, legno - alluminio, alluminio, PVC e ferro </h2>
         <p>La nostra missione? Scegliere l’elemento ideale per valorizzare e personalizzare la tua abitazione anche tramite il montaggio di infissi esterni. La nostra esperienza ci ha insegnato che ogni realtà abitativa è diversa dalle altre.</p>
         <p>Ecco perché ti proponiamo un’ampia scelta di serramenti: in legno, legno/alluminio, PVC e ferro realizzati su misura. L’imbarazzo della scelta, e delle soluzioni, riguarda anche i materiali, tra i quali Bamboo, Pino FSC, Accoya.</p>
