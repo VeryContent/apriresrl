@@ -43,7 +43,7 @@ class IndexRistrutturazione extends Component {
       </Helmet>
 
       <div className="uk-container-large" style={{marginLeft: 'auto',marginRight: 'auto'}}><div className="uk-padding-large uk-width-1-2@l uk-flex uk-flex-middle uk-first-column"><div>
-      <h1>Lavori ristrutturazione svolti Aprire srl  </h1>
+      <h1>Lavori ristrutturazione svolti da Aprire srl  </h1>
       <p>È bello ridare nuova vita a manufatti che conservano ancora tutto il fascino e la bellezza della storia. È quello che amiamo fare quando andiamo a completare i <b>lavori di ristrutturazione svolti dai nostri partner, con l’installazione dei serramenti</b>.</p>
       <h2>Ristrutturazione: recupero di vecchi edifici </h2>
       <p>In venticinque anni di attività ci siamo occupati spesso di completare i <b>lavori di ristrutturazione svolti dai nostri partner</b>. Abbiamo riportato alla luce un vecchio cascinale di campagna, abbandonato, ma che ancora era in grado di trasmettere l’antica cultura contadina. Abbiamo affrontato con i clienti e i progettisti i delicati aspetti legati al recupero e alla ristrutturazione di un manufatto che andava rispettato e nello stesso tempo trasformato.</p>
