@@ -42,7 +42,7 @@ class IndexSopralluogo extends Component {
                 </Helmet>
 
                 <div className="uk-container-large" style={{marginLeft: 'auto',marginRight: 'auto'}}><div className="uk-padding-large uk-width-1-2@l uk-flex uk-flex-middle uk-first-column"><div>
-                <h1>Sopralluogo sostituzione infissi in una per ristrutturazione</h1>
+                <h1>Sopralluogo preliminare per la sostituzione degli infissi</h1>
                 <p>Di fronte alla possibilità di un progetto costruttivo o ricostruttivo, nel caso del restyling di uno spazio, una fase necessaria e imprescindibile è il <b>sopralluogo preliminare per verificare lo stato del cantiere</b> . Seguiranno poi altre visite sul posto. Noi di Aprire Srl lavoriamo con passione, precisione e scrupolo, studiando ogni minimo dettaglio. </p>
                 <h2>Sopralluogo: soluzioni personalizzate </h2>
                 <p>Se la progettazione è fondamentale, il <b>sopralluogo preliminare</b> è essenziale. Grazie ad esso possiamo comprendere le dinamiche “sul campo” che richiedono le proposte più adatte. È proprio grazie ai sopralluoghi e al costante monitoraggio dei cantieri durante il loro sviluppo che possiamo intervenire con tempestività in caso di criticità improvvise.</p>
