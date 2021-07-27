@@ -16,7 +16,7 @@ const Footer = () => {
         className="uk-padding-small uk-text-center uk-light"
         style={{ background: "#3f4042" }}
       >
-        © {new Date().getFullYear()} Aprire srl - P.I. 02141540134. Built by{" "}
+        © {new Date().getFullYear()} Aprire srl - P.I. 02141540134. Si informa che la società ha ricevuto i contributi indicati sul Registro Nazionale Aiuti. </br> Built by{" "}
         <a href="https://www.webartsdesign.it">Webartsdesign</a>.
       </footer>
 {/*
